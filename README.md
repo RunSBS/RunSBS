@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 </p>
 
-## 📜 Certifications
+## Certifications
 
 - SQL 개발자(SQLD)
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: `dacapo629@naver.com`  
 - Blog: https://manvsai.tistory.com/
